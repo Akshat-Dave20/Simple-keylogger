@@ -74,5 +74,5 @@ rm keylog.txt
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 ## ✒️ Author
 
-cryptowolfx– built for ethical research, red teaming, and learning.  
+[Akshat](https://github.com/Akshatraja)– built for ethical research, red teaming, and learning.  
 Compatible with Kali Linux, Parrot OS, Ubuntu, and other Debian-based distributions.
