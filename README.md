@@ -5,6 +5,9 @@ A basic Python-based keylogger using `pynput`. This tool captures keystrokes and
 > ⚠️ **DISCLAIMER**  
 > This project is intended **strictly for educational purposes**, such as ethical hacking training, cybersecurity research, and penetration testing labs. **Do not use this tool on devices you do not own or have explicit permission to monitor.** Misuse can be illegal.
 
+This project is for educational and authorized testing purposes only.
+Do not use it on devices or systems without explicit permission.
+
 ---
 
 ## 🚀 Features
